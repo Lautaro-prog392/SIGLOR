@@ -5,6 +5,6 @@
 ### de Ezeiza de la carrera Desarrollo de Software.
 ### Integrantes:
 - Bravo Lautaro
-- Lisandro Sánchez
-- Joaquin
-- Alex
+- Sanchez Lisandro
+- Gonzalez Joaquin
+- xx Alex
