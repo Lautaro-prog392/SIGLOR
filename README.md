@@ -4,6 +4,7 @@
 ### Proyecto final de Estructuras de Datos y Algoritmos II de la Universidad Provincial
 ### de Ezeiza de la carrera Desarrollo de Software.
 ### Integrantes:
+
 - Bravo Lautaro
 - Sanchez Lisandro
 - Gonzalez Joaquin

@@ -1,0 +1,13 @@
+PROYECTO EDA2 - CARPETA: RECURSOS
+---------------------------------
+¿Que contiene esta carpeta?
+    -> Centraliza todos los archivos multimedia y activos externos. Esto evita errores de "archivo no encontrado"
+    al asegurar que todos los desarrolladores usen la misma ruta de acceso.
+
+ARCHIVOS CONTENIDOS:
+- mapa_provincia.png: Imagen de fondo sobre la cual se dibujarán dinámicamente los nodos y rutas.
+- (Opcional): Iconos, fuentes o sonidos que requiera la interfaz gráfica.
+
+
+    #Si llegan a bajar un mapa nuevo o algún ícono, métanlo acá directamente. No lo dejen en 'Descargas' o en el
+    Escritorio porque cuando (cualquiera) baje el código de GitHub no va a cargar la imagen y va a tirar error.
