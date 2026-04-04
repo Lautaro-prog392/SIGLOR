@@ -37,5 +37,5 @@ variables, etc...
 
     - Sanchez Lisandro -> SI
     - Gonzalez Joaquin ->
-    - Bravo Lautaro ->
+    - Bravo Lautaro -> SI
     - xxxx Alex -> 
