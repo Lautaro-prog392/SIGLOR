@@ -1,0 +1,21 @@
+# --- Compilación ---
+*.o
+*.obj
+*.out
+*.exe
+
+# --- Carpetas de IDEs (Code::Blocks, VS Code) ---
+bin/
+obj/
+.vscode/
+.vs/
+*.layout
+*.depend
+
+# --- Bases de Datos (MySQL local) ---
+*.log
+*.sql.gz
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
