@@ -1,0 +1,41 @@
+===========================================================================
+ GUÍA DE ORGANIZACIÓN DEL PROYECTO - SIGLOR 
+===========================================================================
+
+Chicos, que les parece este archivo para establecer los "términos y condiciones"
+sobre como tenemos que trabajar, las reglas a seguir que tenemos que tener en 
+cuenta a la hora de codear, para mantener un orden en forma de declarar las
+variables, etc...
+
+---------------------------------------------------------------------------
+¿CÓMO LABURAMOS? (REGLAS DEL GRUPO)
+---------------------------------------------------------------------------
+
+- NOMBRES EN ESPAÑOL: Como somos de acá y el proyecto es para la UPE, 
+  que les parece cualquier tipo de declaracion que sea en castellano?. Así es 
+  más fácil leer el código y nos entendemos todos rápido.
+
+- NO MEZCLAR TODO: Tratemos de que cada cosa esté en su carpeta. No dejar archivos 
+  sueltos en la carpeta raíz porque se hace un lío.
+
+- ARCHIVOS BINARIOS: Acuérdense que el profe pidió persistencia binaria. 
+  No usar .txt para guardar los datos de las rutas; usamos los .dat quee
+  están en la carpeta /datos.
+
+- MENSAJES DE COMMITS: Tratemos de que los mensajes de los 'commits' se entiendan.
+  No poner solo "cambios", pongamos algo como "Agregada función de cargar ciudad"
+  o "Corregido error de objeto ciudad".
+
+- ANTES DE SUBIR AL GITHUB: Porfa, antes de mandar un 'push', asegurarse 
+  de que el programa les compila en su compu. Para no subir algo roto.
+
+==========================================================================
+
+  - Cualquier añadido de reglas o pautas, agregarlo en este archivo.
+
+  -> Estan de acuerdo:
+
+    - Sanchez Lisandro -> SI
+    - Gonzalez Joaquin ->
+    - Bravo Lautaro ->
+    - xxxx Alex -> 
