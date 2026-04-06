@@ -36,6 +36,6 @@ variables, etc...
   -> Estan de acuerdo:
 
     - Sanchez Lisandro -> SI
-    - Gonzalez Joaquin ->
+    - Gonzalez Joaquin -> SI
     - Bravo Lautaro -> SI
     - Moran Alex -> 
