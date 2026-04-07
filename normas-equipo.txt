@@ -29,6 +29,13 @@ variables, etc...
 - ANTES DE SUBIR AL GITHUB: Porfa, antes de mandar un 'push', asegurarse 
   de que el programa les compila en su compu. Para no subir algo roto.
 
+- NOMBRES DE VARIABLES: Se usará CamelCase (nombreDeLaFuncion).
+
+- INDENTACIÓN: Se optará por la indentación estilo:
+	if(condicion)
+	{
+	}
+
 ==========================================================================
 
   - Cualquier añadido de reglas o pautas, agregarlo en este archivo.
@@ -36,6 +43,10 @@ variables, etc...
   -> Estan de acuerdo:
 
     - Sanchez Lisandro -> SI
+<<<<<<< HEAD
     - Gonzalez Joaquin -> SI
+=======
+    - Gonzalez Joaquin -> 
+>>>>>>> b73368b76ecd429b8141ea4f8c941238b8645996
     - Bravo Lautaro -> SI
     - Moran Alex -> 
