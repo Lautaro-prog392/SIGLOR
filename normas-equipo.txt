@@ -19,7 +19,7 @@ variables, etc...
   sueltos en la carpeta raíz porque se hace un lío.
 
 - ARCHIVOS BINARIOS: Acuérdense que el profe pidió persistencia binaria. 
-  No usar .txt para guardar los datos de las rutas; usamos los .dat quee
+  No usar .txt para guardar los datos de las rutas; usamos los .dat que
   están en la carpeta /datos.
 
 - MENSAJES DE COMMITS: Tratemos de que los mensajes de los 'commits' se entiendan.
@@ -35,6 +35,13 @@ variables, etc...
 	if(condicion)
 	{
 	}
+
+- FEATURES: A la hora de empezar la implementación de cualquier nueva feature
+  o función, se creará una branch de main donde se probará la funcionalidad
+  de dicha feature. Cuando se considere lista para agregar, se abrirá una
+  Pull Request y el equipo la revisará. Si está todo OK, se mergea la feature
+  a la rama main. Esto es para mantener la rama main limpia y funcionando,
+  y que un error en el código de alguien no afecte a los demás.
 
 ==========================================================================
 
