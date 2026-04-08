@@ -52,4 +52,4 @@ variables, etc...
     - Sanchez Lisandro -> SI
     - Gonzalez Joaquin -> SI
     - Bravo Lautaro -> SI
-    - Moran Alex -> 
+    - Moran Alex -> SI
