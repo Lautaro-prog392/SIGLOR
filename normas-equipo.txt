@@ -43,10 +43,6 @@ variables, etc...
   -> Estan de acuerdo:
 
     - Sanchez Lisandro -> SI
-<<<<<<< HEAD
     - Gonzalez Joaquin -> SI
-=======
-    - Gonzalez Joaquin -> 
->>>>>>> b73368b76ecd429b8141ea4f8c941238b8645996
     - Bravo Lautaro -> SI
     - Moran Alex -> 
