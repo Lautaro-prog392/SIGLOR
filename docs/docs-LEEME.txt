@@ -1,0 +1,8 @@
+PROYECTO EDA2 - CARPETA: EJECUTABLES
+------------------------------------
+¿Que contiene esta carpeta?
+    -> Es para almacenar toda la documentación del proyecto y los recursos de
+	la misma que no va a ser directamente utilizada en el código, sino como
+	fuente de información y base para la realización del proyecto.
+CONTENIDO:
+- Documentación y recursos
