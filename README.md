@@ -11,4 +11,4 @@
 - Moran Alex
 
 ### Documentación:
-Para leer el informe detallado con tablas y gráficos, visita: [Documentación SIGLOR](./docs/nodos_conexiones.txt)
+Para leer el informe detallado con tablas y gráficos, visita: [Documentación SIGLOR](./docs/nodos_conexiones.md)
