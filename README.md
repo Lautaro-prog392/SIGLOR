@@ -19,6 +19,7 @@ matemáticos para realizar su tarea, y tendrá funciones como:
 - Visualización gráfica
 - Gestión de contingencias
 - Registro histórico
+
 El stack principal será C++ y sus correspondientes componentes (TImage, TComboBox...).
 
 ### Documentación:
